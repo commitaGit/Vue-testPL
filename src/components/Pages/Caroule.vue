@@ -109,11 +109,8 @@ export default {
         return{
             show:false,
             items: [
-            // {image: require('../assets/1.jpg')},
-            // {image: require('../assets/4.jpg')},
-            // {image: require('../assets/5.jpg')},
-            // {image: require('../assets/2.jpg')},
-            // {image: require('../assets/3.jpg')}
+            {image: require('../../assets/1.jpg')},
+            {image: require('../../assets/2.jpg')}
             ],
             input:'',
             input1:''
